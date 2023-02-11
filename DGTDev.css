@@ -64,7 +64,7 @@ header{
 }
 
 .photothibaut{
-	background: url(portrait.jpg);
+	background: url(./img/portrait.jpg);
 	background-size: cover;
 	margin: auto;
 	margin-top: 10%;
@@ -426,7 +426,7 @@ h4{
 	height: 70%;
 	width: 35%;
 	margin: auto;
-	background: url(image_conclusion.jpg);
+	background: url(./img/image_conclusion.jpg);
 	background-size: 100%;
 	border-radius: 10px;
 }
