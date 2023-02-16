@@ -15,7 +15,7 @@ header{
 	flex-wrap: wrap;
 	margin-top: 80px;
 	background-color: rgb(13, 13, 13);
-	height: 500px;
+	height: 800px;
 	width: 100%;
 	color: white;
 }
@@ -25,6 +25,7 @@ header{
 	margin: auto;
 	width: 50%;
 	height: 99%;
+	padding-top: 150px;
 }
 
 .texte_intro{
@@ -44,11 +45,13 @@ header{
 	font-family: 'Kanit', sans-serif;
 	text-align: center;
 	margin-top: 0px;
+	color: rgb(27, 60, 245);
 }
 
 .compétence{
 	font-family: 'Kanit', sans-serif;
      text-align: center;
+	 color: rgb(27, 60, 245);
 }
 
 .intro_header{
@@ -171,6 +174,7 @@ main{
     box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
 	border: 10px black solid;
 	padding-top: 0px;
+
 }
 
 .logo_diplome{
